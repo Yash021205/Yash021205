@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
- <img align="center" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=100&color=FFFFFF&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;DSA+and+CP+Enthusiast" alt="Typing SVG" />
+ <img align="center" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=100&color=FFFFFF&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;DSA+and+CP+Enthusiast;Devops+Enthusiast" alt="Typing SVG" />
 </div>
 
 # 💫 About Me
