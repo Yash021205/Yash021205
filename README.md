@@ -8,7 +8,7 @@
 
 # 💫 About Me
 <div>
-🌱 Currently immersing myself in advanced web technologies and diving deep into various <b> DSA and CP problems</b>  
+🌱 Currently immersing myself in advanced web technologies, devops and diving deep into various <b> DSA problems</b>  
 <br>⚡ Fascinated by building efficient, reliable backend systems and exploring distributed architectures  
 <br>🔥 Actively expanding my skills in backend development, performance optimization, and modern software design  
 <br>👯 Eager to collaborate on Open Source Projects and connect with developers passionate about systems and infrastructure  
